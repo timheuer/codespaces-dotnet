@@ -4,10 +4,15 @@
 		"ms-dotnettools.csharp"
 	],
 	"postCreateCommand": "dotnet restore",
-	"forwardPorts": [ 5163, 7105],
-    "customizations": {
-        "codespaces": {
-            "openFiles": [ "Program.cs"]
-        }
-    }
+	"forwardPorts": [
+		5163,
+		7105
+	],
+	"customizations": {
+		"codespaces": {
+			"openFiles": [
+				"Program.cs"
+			]
+		}
+	}
 }
