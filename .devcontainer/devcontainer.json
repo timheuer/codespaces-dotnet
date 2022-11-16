@@ -14,5 +14,9 @@
 				"Program.cs"
 			]
 		}
+	},
+	"features": {
+		"sshd": "latest",
+		"fuse3": "latest"
 	}
 }
